@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 1833818752
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6bfea7230f21539792ea253fe62e5b73
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6bfea7230f21539792ea253fe62e5b73
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/User Interface/Icons/Textures/Skill Icons/Icon_Skill_16.png
+- Assets/User Interface/Icons/Textures/Skill Icons/Icon_Skill_10.png
+- Assets/User Interface/Icons/Textures/Skill Icons/Icon_Skill_18.png
+- Assets/User Interface/Icons/Textures/Skill Icons/Icon_Skill_07.png
+- Assets/User Interface/Icons/Textures/Skill Icons/Icon_Skill_03.png
+- Assets/User Interface/Icons/Textures/Skill Icons/Icon_Skill_05.png
+- Assets/User Interface/Icons/Textures/Skill Icons/Icon_Skill_15.png
+- Assets/User Interface/Icons/Textures/Skill Icons/Icon_Skill_21.png
+- Assets/User Interface/Icons/Textures/Skill Icons/Icon_Skill_00.png
+- Assets/User Interface/Icons/Textures/Skill Icons/Icon_Skill_04.png
+- Assets/User Interface/Icons/Textures/Skill Icons/Icon_Skill_06.png
+- Assets/User Interface/Icons/Textures/Skill Icons/Icon_Skill_02.png
+- Assets/User Interface/Icons/Textures/Skill Icons/Icon_Skill_08.png
+- Assets/User Interface/Icons/Textures/Skill Icons/Icon_Skill_22.png
+- Assets/User Interface/Icons/Textures/Skill Icons/Icon_Skill_11.png
+- Assets/User Interface/Icons/Textures/Skill Icons/Icon_Skill_09.png
+- Assets/User Interface/Icons/Textures/Skill Icons/Icon_Skill_17.png
+- Assets/User Interface/Icons/Textures/Skill Icons/Icon_Skill_13.png
+- Assets/User Interface/Icons/Textures/Skill Icons/Icon_Skill_14.png
+- Assets/User Interface/Icons/Textures/Skill Icons/Icon_Skill_20.png
+- Assets/User Interface/Icons/Textures/Skill Icons/Icon_Skill_01.png
+- Assets/User Interface/Icons/Textures/Skill Icons/Icon_Skill_12.png
+- Assets/User Interface/Icons/Textures/Skill Icons/Icon_Skill_19.png
+Dependencies: []

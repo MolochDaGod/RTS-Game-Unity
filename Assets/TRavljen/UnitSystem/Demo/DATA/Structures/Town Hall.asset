@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0618ea4e5e8cd42df9ae0d881c5e718d, type: 3}
+  m_Name: Town Hall
+  m_EditorClassIdentifier: 
+  _uuid: 2b5989a6-26ba-4e10-a4ff-71cbe18f52a1
+  Name: Town Hall
+  Description: Player headquarters
+  Attributes:
+  - Attribute: {fileID: 11400000, guid: 14069f436a9944017a634ad18521f25f, type: 2}
+    Value: 3
+    ValueType: 0
+  - Attribute: {fileID: 11400000, guid: 5a4d064a66a724dfc8304783a44d47f6, type: 2}
+    Value: 5
+    ValueType: 0
+  Requirements: []
+  Cost:
+  - Producable: {fileID: 11400000, guid: a5088d6c2f2f449d58b9fb4621644d5b, type: 2}
+    Quantity: 100
+  - Producable: {fileID: 11400000, guid: 551d5b6b664c949599a5ea70b7f04a43, type: 2}
+    Quantity: 100
+  ProductionDuration: 25
+  associatedPrefab: {fileID: 1049282772526169942, guid: e6bd89075f6ef44a5b801b8a908e3494, type: 3}
+  GroupedActions:
+  - Name: Research
+    Actions:
+    - Producable: {fileID: 11400000, guid: 2ef616b27dcd345368f39e50274948bd, type: 2}
+      Quantity: 1
+  - Name: Units
+    Actions:
+    - Producable: {fileID: 11400000, guid: 16067ad383a0f47d49124d907d3d4ce3, type: 2}
+      Quantity: 2
+  ProducesResource:
+  - Producable: {fileID: 11400000, guid: a5088d6c2f2f449d58b9fb4621644d5b, type: 2}
+    Quantity: 5
+  - Producable: {fileID: 11400000, guid: 551d5b6b664c949599a5ea70b7f04a43, type: 2}
+    Quantity: 3

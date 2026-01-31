@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38dcbaffe08ed4401a0cf6f2ed4ecf48, type: 3}
+  m_Name: Bonus Health
+  m_EditorClassIdentifier: 
+  _uuid: 39060964-9d7c-427d-8fa2-f5d7c259a7cb
+  Name: Bonus Health
+  Description: Bonus health for all units
+  Attributes: []
+  Requirements:
+  - Producable: {fileID: 11400000, guid: d4716c51a2bfa4732a0a88b170df7c17, type: 2}
+    Quantity: 1
+  - Producable: {fileID: 11400000, guid: 2ef616b27dcd345368f39e50274948bd, type: 2}
+    Quantity: 1
+  Cost:
+  - Producable: {fileID: 11400000, guid: a5088d6c2f2f449d58b9fb4621644d5b, type: 2}
+    Quantity: 200
+  ProductionDuration: 3

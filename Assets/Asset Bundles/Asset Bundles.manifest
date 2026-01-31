@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3588788438
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: skill-icon-textures
+      Dependencies: {}
